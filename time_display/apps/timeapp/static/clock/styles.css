@@ -1,0 +1,19 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    display:grid;
+    justify-items: center;
+}
+h1, h2, p{
+    color: white;
+    margin-top: 20px 0 0 0;
+}
+div{
+    width: 500px;
+    background-color: #2b7ecc;
+    padding: 5px;
+    border-radius: 30px;
+    margin-top: 330px;
+    text-align: center;
+}
